@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">e-Shopp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_adress">Map</string>
+    <string name="title_activity_maps_pizza">Map</string>
+    <string name="title_activity_maps_coffee">Map</string>
+</resources>

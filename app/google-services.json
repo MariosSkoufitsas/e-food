@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "668468182014",
+    "firebase_url": "https://e-shopp-ede85-default-rtdb.firebaseio.com",
+    "project_id": "e-shopp-ede85",
+    "storage_bucket": "e-shopp-ede85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668468182014:android:0fbe17aeb92bc013a29eaf",
+        "android_client_info": {
+          "package_name": "com.example.e_shopp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668468182014-qtu4b88s22amf5vkric390puh5avne94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_shopp",
+            "certificate_hash": "b13900cc16cda2dbf609a021c01c93f978eea2f4"
+          }
+        },
+        {
+          "client_id": "668468182014-ke2anaechka47d7ctcja1rbequ22i8on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvqFt-DUQ-1vap_jwkI3YwflkDhk3hqEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668468182014-ke2anaechka47d7ctcja1rbequ22i8on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
